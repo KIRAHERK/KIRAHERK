@@ -2,6 +2,7 @@
 IT graduate — AI & cybersecurity
 
 **Portfolio** → [kiraherk.github.io](https://kiraherk.github.io)
+
 ---
 
 **Focus**
